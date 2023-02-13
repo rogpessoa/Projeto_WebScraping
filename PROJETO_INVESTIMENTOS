@@ -1,0 +1,6 @@
+Projeto Webscraping sobre Investimentos
+Pagina alvo: https://www.fundamentus.com.br/
+Bibliotecas que serão utilizadas:
+-> Requests - Realiza requisições HTTP
+-> BeautifulSoup - Biblioteca que facilita o parsing de paginas HTML
+-> Tabulate - Biblioteca para formatar dados no terminal
