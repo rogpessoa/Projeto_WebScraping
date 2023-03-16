@@ -1,4 +1,3 @@
 venv/
-/.idea/**
-/__pycache__/**
-output.txt
+/.idea/*
+/__pycache__/*
