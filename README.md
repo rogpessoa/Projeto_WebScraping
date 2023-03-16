@@ -8,5 +8,4 @@ O projeto visa demonstrar de forma simples a captura de fundos imobiliários, co
   ##### **Utilização** <h5>
 Para utilizar o serviço e filtrar o fundo desejado basta editar os arquivos das linhas 44 ao 51, preenchendo com o filtro desejado.
   ##### **Projeto em Execução** <h5>
-  
-  ![Webscraping: Excel](./web_scraping_excel.jpg)
+ 
