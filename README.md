@@ -9,4 +9,4 @@ O projeto visa demonstrar de forma simples a captura de fundos imobiliários, co
 Para utilizar o serviço e filtrar o fundo desejado basta editar os arquivos das linhas 44 ao 51, preenchendo com o filtro desejado.
   ##### **Projeto em Execução** <h5>
   ![Webscraping: Linha de comando](C:\Users\P05813631\Documents\JORNADA_ARQUIVOS\Projeto WebScraping - Fundamentus)
-  ![Webscraping: Excel](C:\Users\P05813631\Documents\JORNADA_ARQUIVOS\Projeto WebScraping - Fundamentus)
+  ![Webscraping: Excel]('./web_scraping.jpg')
